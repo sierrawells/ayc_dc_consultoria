@@ -1,0 +1,24 @@
+residentes: 
+  - cve_mun
+  - nom_mun
+  - sexo
+  - edad
+  - niv
+  - n_ren
+
+sec_3:
+  - corr_*
+  - r_inf
+  - r_ele
+
+sec_11:
+  - conf_*
+
+all:
+  - cve_ent
+  - id_per
+  - id_viv
+  - upm
+  - v_sel
+  - fac_p18
+  - year

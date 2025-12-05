@@ -4,7 +4,7 @@
 
 Este proyecto tiene como objetivo analizar datos públicos sobre las organizaciones de la sociedad civil (OSC) en México, dentro del marco de la consultoría realizada para la organización Alternativas y Capacidades. Los principales hallazgos cuantitativos se pueden encontrar en este [reporte](https://docs.google.com/document/d/1recs3wDHMTqL7HWkmbMSk4KuxGhT-PKp/edit?usp=sharing&ouid=111796747923741384434&rtpof=true&sd=true).
 
-Este repositorio contiene scripts y datos organizados en tres principales directorios: `import_clean`, `eda`, y `descriptives` [actualizar si es necesario].
+Este repositorio contiene scripts y datos organizados en tres principales directorios: `import_clean`, `eda`, y `descriptives`.
 
 ## Directorios principales
 
